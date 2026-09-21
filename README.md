@@ -1,6 +1,6 @@
 ![logo](https://github.com/dhruvbhardwaj-9/dhruvbhardwaj-9/blob/main/Dhruv%20banner.png)
 <h1 align="center">Hi 👋, I'm Dhruv Bhardwaj</h1>
-<h3 align="center">A passionate java Backend developer from India</h3>
+<h3 align="center">Aspiring java Backend developer</h3>
 
 - 🌱 I’m currently learning **java backend developing**
 
